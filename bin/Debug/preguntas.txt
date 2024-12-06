@@ -1,0 +1,9 @@
+arte;¿Quién pintó la Mona Lisa?;Pablo Picasso;Leonardo da Vinci;Vincent van Gogh;B
+arte;¿En qué corriente artística se enmarca la obra de Salvador Dalí?;Impresionismo;Surrealismo;Cubismo;B
+arte;¿Qué técnica de pintura utilizaba el pintor renacentista Leonardo da Vinci en sus obras?;Acuarela;Óleo;Fresco;B
+ciencia;¿Quién formuló la teoría de la relatividad?;Isaac Newton;Albert Einstein;Galileo Galilei;B
+ciencia;¿Cuál es el órgano encargado de bombear la sangre en el cuerpo humano?;Estómago;Pulmones;Corazón;C
+ciencia;¿Qué partícula subatómica tiene carga negativa?;Protón;Neutrón;Electrón;C
+cine;¿Quién dirigió la película "Titanic"?;James Cameron;Steven Spielberg;Quentin Tarantino;A
+cine;¿Qué actor interpretó a Harry Potter en la saga de películas?;Daniel Radcliffe;Rupert Grint;Tom Felton;A
+cine;¿En qué año se estrenó la película "Avatar"?;2008;2010;2009;C
