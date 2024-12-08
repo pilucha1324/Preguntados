@@ -1,6 +1,6 @@
 ﻿namespace TP_FINAL_PREGUNTDOS
 {
-    partial class Form1
+    partial class FormCategorias
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -33,7 +33,7 @@
             this.btnCine = new System.Windows.Forms.Button();
             this.btnRandom = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
+            this.btnVolverInicio = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnArte
@@ -98,28 +98,31 @@
             this.button5.Text = "button5";
             this.button5.UseVisualStyleBackColor = true;
             // 
-            // button6
+            // btnVolverInicio
             // 
-            this.button6.Location = new System.Drawing.Point(12, 12);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(56, 43);
-            this.button6.TabIndex = 5;
-            this.button6.Text = "button6";
-            this.button6.UseVisualStyleBackColor = true;
+            this.btnVolverInicio.BackColor = System.Drawing.Color.Indigo;
+            this.btnVolverInicio.ForeColor = System.Drawing.Color.PaleGreen;
+            this.btnVolverInicio.Location = new System.Drawing.Point(12, 12);
+            this.btnVolverInicio.Name = "btnVolverInicio";
+            this.btnVolverInicio.Size = new System.Drawing.Size(78, 43);
+            this.btnVolverInicio.TabIndex = 5;
+            this.btnVolverInicio.Text = "Volver al Inicio";
+            this.btnVolverInicio.UseVisualStyleBackColor = false;
+            this.btnVolverInicio.Click += new System.EventHandler(this.btnProvisorio_Click);
             // 
-            // Form1
+            // FormCategorias
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DimGray;
             this.ClientSize = new System.Drawing.Size(874, 450);
-            this.Controls.Add(this.button6);
+            this.Controls.Add(this.btnVolverInicio);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.btnRandom);
             this.Controls.Add(this.btnCine);
             this.Controls.Add(this.btnCiencia);
             this.Controls.Add(this.btnArte);
-            this.Name = "Form1";
+            this.Name = "FormCategorias";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
@@ -133,7 +136,7 @@
         private System.Windows.Forms.Button btnCine;
         private System.Windows.Forms.Button btnRandom;
         private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button btnVolverInicio;
     }
 }
 

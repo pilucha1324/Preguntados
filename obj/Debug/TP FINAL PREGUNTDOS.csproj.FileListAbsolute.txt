@@ -2,9 +2,11 @@ C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\bin\Debug\TP FINAL PREGUNTDOS.ex
 C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\bin\Debug\TP FINAL PREGUNTDOS.exe
 C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\bin\Debug\TP FINAL PREGUNTDOS.pdb
 C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP FINAL PREGUNTDOS.csproj.AssemblyReference.cache
-C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP_FINAL_PREGUNTDOS.Form1.resources
 C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP_FINAL_PREGUNTDOS.Properties.Resources.resources
 C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP FINAL PREGUNTDOS.csproj.GenerateResource.cache
 C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP FINAL PREGUNTDOS.csproj.CoreCompileInputs.cache
 C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP FINAL PREGUNTDOS.exe
 C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP FINAL PREGUNTDOS.pdb
+C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP_FINAL_PREGUNTDOS.FormNickname.resources
+C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP_FINAL_PREGUNTDOS.FormCategorias.resources
+C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP_FINAL_PREGUNTDOS.FormBienvenida.resources

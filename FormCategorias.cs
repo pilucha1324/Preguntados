@@ -11,13 +11,14 @@ using System.IO;
 
 namespace TP_FINAL_PREGUNTDOS
 {
-    public partial class Form1 : Form
+    public partial class FormCategorias: Form
     {
-        public Form1()
+        private FormNickname formNickname;
+        public FormCategorias(FormNickname formNickname)
         {
             InitializeComponent();
+            this.formNickname = formNickname;
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -58,6 +59,13 @@ namespace TP_FINAL_PREGUNTDOS
         private void btnRandom_Click(object sender, EventArgs e)
         {
             ElegirCategoria(Categorias.random);
+        }
+
+        private void btnProvisorio_Click(object sender, EventArgs e)
+        {
+            FormBienvenida formBienvenida = new FormBienvenida();
+            this.Hide();
+            formBienvenida.Show();
         }
     }
 }

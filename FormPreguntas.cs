@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TP_FINAL_PREGUNTDOS
 {
-    public partial class Form2 : Form
+    public partial class FormPreguntas : Form
     {
-        public Form2()
+        public FormPreguntas()
         {
             InitializeComponent();
         }
