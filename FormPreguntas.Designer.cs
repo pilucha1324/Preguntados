@@ -80,6 +80,7 @@
             this.btnA.Size = new System.Drawing.Size(727, 67);
             this.btnA.TabIndex = 3;
             this.btnA.UseVisualStyleBackColor = true;
+            this.btnA.Click += new System.EventHandler(this.btnA_Click);
             // 
             // btnB
             // 
@@ -88,6 +89,7 @@
             this.btnB.Size = new System.Drawing.Size(727, 67);
             this.btnB.TabIndex = 4;
             this.btnB.UseVisualStyleBackColor = true;
+            this.btnB.Click += new System.EventHandler(this.btnB_Click);
             // 
             // btnC
             // 
@@ -96,6 +98,7 @@
             this.btnC.Size = new System.Drawing.Size(727, 67);
             this.btnC.TabIndex = 5;
             this.btnC.UseVisualStyleBackColor = true;
+            this.btnC.Click += new System.EventHandler(this.btnC_Click);
             // 
             // lblVida
             // 

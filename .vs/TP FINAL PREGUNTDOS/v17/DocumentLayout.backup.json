@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formbienvenida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formbienvenida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formnickname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formnickname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,69 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormBienvenida.cs",
-              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormBienvenida.cs",
-              "RelativeDocumentMoniker": "FormBienvenida.cs",
-              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormBienvenida.cs",
-              "RelativeToolTip": "FormBienvenida.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FormCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs",
+              "RelativeDocumentMoniker": "FormCategorias.cs",
+              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs",
+              "RelativeToolTip": "FormCategorias.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowD4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T23:30:46.818Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-12-08T04:02:12.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormCategorias.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.Designer.cs",
-              "RelativeDocumentMoniker": "FormCategorias.Designer.cs",
-              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.Designer.cs",
-              "RelativeToolTip": "FormCategorias.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Title": "FormPreguntas.cs",
+              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormPreguntas.cs",
+              "RelativeDocumentMoniker": "FormPreguntas.cs",
+              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormPreguntas.cs*",
+              "RelativeToolTip": "FormPreguntas.cs*",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwFIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T03:18:33.077Z",
+              "WhenOpened": "2024-12-08T04:00:02.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormBienvenida.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormBienvenida.Designer.cs",
-              "RelativeDocumentMoniker": "FormBienvenida.Designer.cs",
-              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormBienvenida.Designer.cs",
-              "RelativeToolTip": "FormBienvenida.Designer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAIAwwB4AAACPAAAAAAAAAA==",
+              "Title": "FormPreguntas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormPreguntas.cs",
+              "RelativeDocumentMoniker": "FormPreguntas.cs",
+              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormPreguntas.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FormPreguntas.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T03:16:37.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormNickname.cs",
-              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormNickname.cs",
-              "RelativeDocumentMoniker": "FormNickname.cs",
-              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormNickname.cs",
-              "RelativeToolTip": "FormNickname.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T03:14:54.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormCategorias.cs",
-              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs",
-              "RelativeDocumentMoniker": "FormCategorias.cs",
-              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs*",
-              "RelativeToolTip": "FormCategorias.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAApwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T23:46:38.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T03:59:31.575Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

@@ -43,22 +43,31 @@ namespace TP_FINAL_PREGUNTDOS
     
         private void btnArte_Click(object sender, EventArgs e)
         {
-            ElegirCategoria(Categorias.arte);
+            List <string> ListaPreguntas = ElegirCategoria(Categorias.arte);
+            FormPreguntas Preguntas = new FormPreguntas(Categorias.arte.ToString(),ListaPreguntas);
+            this.Hide();
+            Preguntas.Show();
         }
 
         private void btnCiencia_Click(object sender, EventArgs e)
         {
-            ElegirCategoria(Categorias.ciencia);
+            List<string> ListaPreguntas = ElegirCategoria(Categorias.ciencia);
+            FormPreguntas Preguntas = new FormPreguntas(Categorias.ciencia.ToString(), ListaPreguntas);
+            this.Hide();
+            Preguntas.Show();
         }
 
         private void btnCine_Click(object sender, EventArgs e)
         {
-            ElegirCategoria(Categorias.cine);
+            List<string> ListaPreguntas = ElegirCategoria(Categorias.cine);
+            FormPreguntas Preguntas = new FormPreguntas(Categorias.cine.ToString(), ListaPreguntas);
+            this.Hide();
+            Preguntas.Show();
         }
 
         private void btnRandom_Click(object sender, EventArgs e)
         {
-            ElegirCategoria(Categorias.random);
+            List<string> CategoriaElegida = ElegirCategoria(Categorias.random);
         }
 
         private void btnProvisorio_Click(object sender, EventArgs e)

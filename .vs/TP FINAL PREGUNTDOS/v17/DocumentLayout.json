@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs",
+              "RelativeDocumentMoniker": "FormCategorias.cs",
+              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs",
+              "RelativeToolTip": "FormCategorias.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowD4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:02:12.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPreguntas.cs",
+              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormPreguntas.cs",
+              "RelativeDocumentMoniker": "FormPreguntas.cs",
+              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormPreguntas.cs",
+              "RelativeToolTip": "FormPreguntas.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwFQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:00:02.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPreguntas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormPreguntas.cs",
+              "RelativeDocumentMoniker": "FormPreguntas.cs",
+              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormPreguntas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPreguntas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T03:59:31.575Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
