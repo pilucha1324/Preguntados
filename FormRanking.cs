@@ -23,10 +23,11 @@ namespace TP_FINAL_PREGUNTDOS
         }
         private List<string> CargarRanking()
         {   
-            return File.Exists(ArchivoRanking) ? File.ReadAllLines(ArchivoRanking).ToList():new List<string>(); //ternario(if en una sola linea)
+            return File.ReadAllLines(ArchivoRanking).ToList().Count != 0 ? File.ReadAllLines(ArchivoRanking).ToList():new List<string>(); //ternario(if en una sola linea)
         }
         private List<string> OrdenarRanking()
         {
+            if (ranking.Count == 0) return this.ranking;
             var ListaOrdenada = this.ranking.OrderByDescending(L => int.Parse(L.Split(';')[1]));
             return ListaOrdenada.ToList();
         }

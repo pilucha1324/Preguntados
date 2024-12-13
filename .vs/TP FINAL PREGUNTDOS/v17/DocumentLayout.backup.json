@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|c:\\users\\pilua\\source\\repos\\tp final preguntdos\\formranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|solutionrelative:formpreguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{429AC25A-F70F-48D9-AE82-17881E115374}|TP FINAL PREGUNTDOS.csproj|C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\formnickname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,35 +42,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormRanking.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "FormRanking.cs",
               "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormRanking.cs",
               "RelativeDocumentMoniker": "FormRanking.cs",
-              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormRanking.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "FormRanking.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormRanking.cs",
+              "RelativeToolTip": "FormRanking.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T22:04:26.42Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-12-13T17:29:09.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FormPreguntas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormPreguntas.cs",
               "RelativeDocumentMoniker": "FormPreguntas.cs",
               "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormPreguntas.cs [Dise\u00F1o]",
               "RelativeToolTip": "FormPreguntas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T03:59:31.575Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-12-08T03:59:31.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FormPreguntas.cs",
               "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormPreguntas.cs",
               "RelativeDocumentMoniker": "FormPreguntas.cs",
@@ -78,46 +78,44 @@
               "RelativeToolTip": "FormPreguntas.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T04:00:02.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T04:00:02.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormRanking.cs",
-              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormRanking.cs",
-              "RelativeDocumentMoniker": "FormRanking.cs",
-              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormRanking.cs*",
-              "RelativeToolTip": "FormRanking.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T23:47:47.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FormCategorias.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs",
               "RelativeDocumentMoniker": "FormCategorias.cs",
-              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormCategorias.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FormCategorias.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T05:21:28.71Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "FormCategorias.cs",
               "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs",
               "RelativeDocumentMoniker": "FormCategorias.cs",
-              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs",
-              "RelativeToolTip": "FormCategorias.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAEUAAACBAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormCategorias.cs*",
+              "RelativeToolTip": "FormCategorias.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAH4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T22:34:48.929Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRanking.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormRanking.cs",
+              "RelativeDocumentMoniker": "FormRanking.cs",
+              "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormRanking.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormRanking.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:04:26.42Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "ToolTip": "C:\\Users\\pilua\\source\\repos\\TP FINAL PREGUNTDOS\\FormNickname.cs [Dise\u00F1o]",
               "RelativeToolTip": "FormNickname.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T23:43:31.354Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-12-09T23:43:31.354Z"
             },
             {
               "$type": "Document",
@@ -141,8 +138,7 @@
               "RelativeToolTip": "FormNickname.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAuwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T23:43:34.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T23:43:34.503Z"
             }
           ]
         }

@@ -1,9 +1,57 @@
 arte;¿Quién pintó la Mona Lisa?;Pablo Picasso;Leonardo da Vinci;Vincent van Gogh;B
 arte;¿En qué corriente artística se enmarca la obra de Salvador Dalí?;Impresionismo;Surrealismo;Cubismo;B
 arte;¿Qué técnica de pintura utilizaba el pintor renacentista Leonardo da Vinci en sus obras?;Acuarela;Óleo;Fresco;B
+arte;¿Quién pintó "La última cena"?;Raphael;Leonardo da Vinci;Michelangelo;B
+arte;¿Qué movimiento artístico desarrolló Pablo Picasso?;Surrealismo;Cubismo;Impresionismo;B
+arte;¿Cuál es el principal tema en las obras de Vincent van Gogh?;Retratos;Paisajes;Bodegones;B
+arte;¿En qué ciudad se encuentra la famosa Galería de los Uffizi?;Venecia;Florencia;Roma;B
+arte;¿Qué pintor español es conocido por su obra "Las Meninas"?;Francisco de Goya;Diego Velázquez;El Greco;B
+arte;¿Qué tipo de pintura utilizó Leonardo da Vinci en "La Mona Lisa"?;Óleo;Acrílico;Fresco;A
+arte;¿Qué pintor alemán es conocido por su obra "El jardín de las delicias"?;Hieronymus Bosch;Albrecht Dürer;Caspar David Friedrich;A
+arte;¿Qué pintor impresionista es famoso por sus cuadros de nenúfares?;Claude Monet;Edgar Degas;Pierre-Auguste Renoir;A
+arte;¿En qué movimiento artístico se inscribe la obra de Salvador Dalí?;Realismo;Surrealismo;Expresionismo;B
+arte;¿Qué artista pintó la famosa "Noche estrellada"?;Claude Monet;Edvard Munch;Vincent van Gogh;C
+arte;¿Quién pintó "El nacimiento de Venus"?;Sandro Botticelli;Rafael Sanzio;Michelangelo Buonarroti;A
+arte;¿Quién es el autor de la obra "La escuela de Atenas"?;Leonardo da Vinci;Rafael Sanzio;Michelangelo Buonarroti;B
+arte;¿Qué corriente artística es asociada con el pintor estadounidense Jackson Pollock?;Impresionismo;Expresionismo abstracto;Pop Art;B
+arte;¿Cuál es el principal tema de las pinturas de Frida Kahlo?;Retratos de la naturaleza;Autorretratos;Paisajes urbanos;B
+arte;¿Quién pintó "La Gioconda"?;Raphael;Leonardo da Vinci;Michelangelo;B
+arte;¿Qué técnica usó Andy Warhol en sus obras más conocidas?;Óleo;Serigrafía;Acuarela;B
+arte;¿En qué país nació el pintor René Magritte?;Francia;Bélgica;Países Bajos;B
 ciencia;¿Quién formuló la teoría de la relatividad?;Isaac Newton;Albert Einstein;Galileo Galilei;B
 ciencia;¿Cuál es el órgano encargado de bombear la sangre en el cuerpo humano?;Estómago;Pulmones;Corazón;C
 ciencia;¿Qué partícula subatómica tiene carga negativa?;Protón;Neutrón;Electrón;C
+ciencia;¿Quién formuló la teoría de la relatividad?;Isaac Newton;Albert Einstein;Galileo Galilei;B
+ciencia;¿Cuál es el órgano encargado de bombear la sangre en el cuerpo humano?;Estómago;Pulmones;Corazón;C
+ciencia;¿Qué partícula subatómica tiene carga negativa?;Protón;Neutrón;Electrón;C
+ciencia;¿Cuál es el planeta más grande del sistema solar?;Venus;Júpiter;Saturno;B
+ciencia;¿Qué gas es el más abundante en la atmósfera terrestre?;Oxígeno;Nitrógeno;Dióxido de carbono;B
+ciencia;¿Qué tipo de energía produce el sol?;Eléctrica;Térmica;Nuclear;C
+ciencia;¿Cuántos cromosomas tiene el ser humano en su célula somática?;23;46;48;B
+ciencia;¿Quién descubrió la penicilina?;Marie Curie;Louis Pasteur;Alexander Fleming;C
+ciencia;¿Qué fenómeno natural produce la aurora boreal?;Terremotos;Tormentas solares;Viento solar;B
+ciencia;¿En qué lugar del cuerpo humano se produce la insulina?;Hígado;Páncreas;Riñones;B
+ciencia;¿Cómo se llama la teoría que describe la evolución de las especies?;Teoría de la relatividad;Teoría de la evolución;Teoría de la genética;B
+ciencia;¿Cuál es el elemento químico con el símbolo O?;Osmio;Oxígeno;Oro;B
+ciencia;¿Quién fue el autor de la ley de la gravitación universal?;Albert Einstein;Isaac Newton;Galileo Galilei;B
+ciencia;¿Qué científico formuló la teoría heliocéntrica?;Nicolás Copérnico;Galileo Galilei;Johannes Kepler;A
+ciencia;¿Cuál es la unidad básica de la vida?;Célula;Átomo;Molécula;A
 cine;¿Quién dirigió la película "Titanic"?;James Cameron;Steven Spielberg;Quentin Tarantino;A
 cine;¿Qué actor interpretó a Harry Potter en la saga de películas?;Daniel Radcliffe;Rupert Grint;Tom Felton;A
 cine;¿En qué año se estrenó la película "Avatar"?;2008;2010;2009;C
+cine;¿Quién dirigió la película "Titanic"?;James Cameron;Steven Spielberg;Quentin Tarantino;A
+cine;¿Qué actor interpretó a Harry Potter en la saga de películas?;Daniel Radcliffe;Rupert Grint;Tom Felton;A
+cine;¿En qué año se estrenó la película "Avatar"?;2008;2010;2009;C
+cine;¿Quién protagonizó la película "The Revenant"?;Brad Pitt;Leonardo DiCaprio;Matt Damon;B
+cine;¿Quién dirigió "Jurassic Park"?;Steven Spielberg;James Cameron;Ridley Scott;A
+cine;¿Qué actriz interpretó a Katniss Everdeen en "Los juegos del hambre"?;Jennifer Lawrence;Emma Watson;Kristen Stewart;A
+cine;¿En qué año se estrenó "El Señor de los Anillos: La Comunidad del Anillo"?;2001;2002;2003;A
+cine;¿Cuál es el nombre de la película que presenta a un asesino llamado "Freddy Krueger"?;Halloween;Viernes 13;Pesadilla en Elm Street;C
+cine;¿Quién dirigió la película "Inception"?;Christopher Nolan;Quentin Tarantino;Martin Scorsese;A
+cine;¿Qué actor interpreta a Iron Man en el Universo Cinematográfico de Marvel?;Chris Hemsworth;Robert Downey Jr.;Mark Ruffalo;B
+cine;¿En qué película de Disney aparece un personaje llamado Simba?;La Sirenita;El Rey León;Aladdin;B
+cine;¿Qué película ganó el Oscar a la Mejor Película en 1994?;Forrest Gump;Pulp Fiction;La lista de Schindler;A
+cine;¿Qué película de Tim Burton presenta a un hombre con cuchillas en las manos?;Batman;Beetlejuice;Eduardo Manostijeras;C
+cine;¿Qué actor interpretó a Jack Sparrow en "Piratas del Caribe"?;Johnny Depp;Orlando Bloom;Geoffrey Rush;A
+cine;¿Qué película fue dirigida por Stanley Kubrick y se considera un clásico?;2001: Odisea en el espacio;La naranja mecánica;El resplandor;A
+cine;¿Qué actor interpreta a James Bond en "Casino Royale"?;Pierce Brosnan;Daniel Craig;Sean Connery;B

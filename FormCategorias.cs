@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
+
 namespace TP_FINAL_PREGUNTDOS
 {
     public partial class FormCategorias : Form
@@ -85,8 +86,10 @@ namespace TP_FINAL_PREGUNTDOS
             {
                 if (!VerificarArchivo(RutaArchivo))
                 {
+                    using (File.CreateText(RutaArchivo))
+                    {
 
-                    File.CreateText(RutaArchivo);
+                    }
                 }
 
             }
@@ -120,9 +123,8 @@ namespace TP_FINAL_PREGUNTDOS
 
         private void btnRanking_Click(object sender, EventArgs e)
         {
-            
             FormRanking formRanking = new FormRanking();
-            formRanking.Show();   
+            formRanking.Show();
         }
         public void ObtenerPuntos(int puntos)
         {
