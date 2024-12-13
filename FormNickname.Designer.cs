@@ -87,7 +87,10 @@
             this.Controls.Add(this.btnNickname);
             this.Controls.Add(this.lblElegirNickname);
             this.Controls.Add(this.txtNickname);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.MaximizeBox = false;
             this.Name = "FormNickname";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormNickname";
             this.Load += new System.EventHandler(this.FormNickname_Load);
             this.ResumeLayout(false);

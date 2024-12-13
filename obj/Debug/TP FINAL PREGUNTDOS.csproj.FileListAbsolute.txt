@@ -11,3 +11,4 @@ C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP_FINAL_PREGUNTDOS.Fo
 C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP_FINAL_PREGUNTDOS.FormCategorias.resources
 C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP_FINAL_PREGUNTDOS.FormBienvenida.resources
 C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP_FINAL_PREGUNTDOS.FormPreguntas.resources
+C:\Users\pilua\source\repos\TP FINAL PREGUNTDOS\obj\Debug\TP_FINAL_PREGUNTDOS.FormRanking.resources

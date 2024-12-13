@@ -26,9 +26,16 @@ namespace TP_FINAL_PREGUNTDOS
 
         private void btnNickname_Click(object sender, EventArgs e)
         {
-            FormCategorias formElegirCategoria = new FormCategorias(this);
+            if(txtNickname.Text == "")
+            {
+                MessageBox.Show("¡Debes elegir un nombre para jugar!");
+                return;
+            }
+            
+            FormCategorias formElegirCategoria = new FormCategorias(txtNickname.Text);
             this.Close();
             formElegirCategoria.Show();
+
         }
     }
 }

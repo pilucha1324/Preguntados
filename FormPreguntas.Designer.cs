@@ -56,10 +56,10 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lblPregunta.AutoSize = true;
             this.lblPregunta.BackColor = System.Drawing.Color.White;
-            this.lblPregunta.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold);
+            this.lblPregunta.Font = new System.Drawing.Font("Segoe UI Semibold", 14F, System.Drawing.FontStyle.Bold);
             this.lblPregunta.Location = new System.Drawing.Point(65, 130);
             this.lblPregunta.Name = "lblPregunta";
-            this.lblPregunta.Size = new System.Drawing.Size(114, 32);
+            this.lblPregunta.Size = new System.Drawing.Size(90, 25);
             this.lblPregunta.TabIndex = 1;
             this.lblPregunta.Text = "pregunta";
             this.lblPregunta.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -118,9 +118,9 @@
             this.lblLevel.ForeColor = System.Drawing.Color.Black;
             this.lblLevel.Location = new System.Drawing.Point(21, 9);
             this.lblLevel.Name = "lblLevel";
-            this.lblLevel.Size = new System.Drawing.Size(50, 37);
+            this.lblLevel.Size = new System.Drawing.Size(54, 37);
             this.lblLevel.TabIndex = 7;
-            this.lblLevel.Text = "1/1";
+            this.lblLevel.Text = "1/5";
             // 
             // FormPreguntas
             // 
@@ -136,7 +136,9 @@
             this.Controls.Add(this.lblPregunta);
             this.Controls.Add(this.lblCategoria);
             this.Controls.Add(this.pictureBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FormPreguntas";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormPreguntas";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

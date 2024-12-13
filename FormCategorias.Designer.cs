@@ -31,8 +31,7 @@
             this.btnArte = new System.Windows.Forms.Button();
             this.btnCiencia = new System.Windows.Forms.Button();
             this.btnCine = new System.Windows.Forms.Button();
-            this.btnRandom = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
+            this.btnRanking = new System.Windows.Forms.Button();
             this.btnVolverInicio = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -76,37 +75,29 @@
             this.btnCine.UseVisualStyleBackColor = false;
             this.btnCine.Click += new System.EventHandler(this.btnCine_Click);
             // 
-            // btnRandom
+            // btnRanking
             // 
-            this.btnRandom.BackColor = System.Drawing.Color.LightGray;
-            this.btnRandom.Font = new System.Drawing.Font("Segoe UI Semibold", 24F, System.Drawing.FontStyle.Bold);
-            this.btnRandom.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnRandom.Location = new System.Drawing.Point(145, 289);
-            this.btnRandom.Name = "btnRandom";
-            this.btnRandom.Size = new System.Drawing.Size(557, 84);
-            this.btnRandom.TabIndex = 3;
-            this.btnRandom.Text = "RANDOM";
-            this.btnRandom.UseVisualStyleBackColor = false;
-            this.btnRandom.Click += new System.EventHandler(this.btnRandom_Click);
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(731, 12);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(131, 43);
-            this.button5.TabIndex = 4;
-            this.button5.Text = "button5";
-            this.button5.UseVisualStyleBackColor = true;
+            this.btnRanking.BackColor = System.Drawing.Color.Indigo;
+            this.btnRanking.Font = new System.Drawing.Font("Segoe UI Semibold", 10F, System.Drawing.FontStyle.Bold);
+            this.btnRanking.ForeColor = System.Drawing.Color.PaleGreen;
+            this.btnRanking.Location = new System.Drawing.Point(731, 12);
+            this.btnRanking.Name = "btnRanking";
+            this.btnRanking.Size = new System.Drawing.Size(131, 43);
+            this.btnRanking.TabIndex = 4;
+            this.btnRanking.Text = "RANKING";
+            this.btnRanking.UseVisualStyleBackColor = false;
+            this.btnRanking.Click += new System.EventHandler(this.btnRanking_Click);
             // 
             // btnVolverInicio
             // 
             this.btnVolverInicio.BackColor = System.Drawing.Color.Indigo;
+            this.btnVolverInicio.Font = new System.Drawing.Font("Segoe UI Semibold", 10F, System.Drawing.FontStyle.Bold);
             this.btnVolverInicio.ForeColor = System.Drawing.Color.PaleGreen;
             this.btnVolverInicio.Location = new System.Drawing.Point(12, 12);
             this.btnVolverInicio.Name = "btnVolverInicio";
             this.btnVolverInicio.Size = new System.Drawing.Size(78, 43);
             this.btnVolverInicio.TabIndex = 5;
-            this.btnVolverInicio.Text = "Volver al Inicio";
+            this.btnVolverInicio.Text = "SALIR";
             this.btnVolverInicio.UseVisualStyleBackColor = false;
             this.btnVolverInicio.Click += new System.EventHandler(this.btnProvisorio_Click);
             // 
@@ -117,12 +108,14 @@
             this.BackColor = System.Drawing.Color.DimGray;
             this.ClientSize = new System.Drawing.Size(874, 450);
             this.Controls.Add(this.btnVolverInicio);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.btnRandom);
+            this.Controls.Add(this.btnRanking);
             this.Controls.Add(this.btnCine);
             this.Controls.Add(this.btnCiencia);
             this.Controls.Add(this.btnArte);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.MaximizeBox = false;
             this.Name = "FormCategorias";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
@@ -134,8 +127,7 @@
         private System.Windows.Forms.Button btnArte;
         private System.Windows.Forms.Button btnCiencia;
         private System.Windows.Forms.Button btnCine;
-        private System.Windows.Forms.Button btnRandom;
-        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button btnRanking;
         private System.Windows.Forms.Button btnVolverInicio;
     }
 }
